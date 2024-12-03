@@ -1,0 +1,5 @@
+*.pdf
+data/*.xlsx
+processed_data/*.csv
+*.ven*
+*.ipynb
