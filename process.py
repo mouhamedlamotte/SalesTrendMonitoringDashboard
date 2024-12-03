@@ -1,4 +1,5 @@
-
+#!/home/mouhamed/projets/SalesTrendMonitoringDashboard/.venv/bin/python3
+#-*- coding: utf-8 -*-
 
 import os
 import subprocess
